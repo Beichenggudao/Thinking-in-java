@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thinking in java.iml" filepath="$PROJECT_DIR$/Thinking in java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章节/产生随机数.iml" filepath="$PROJECT_DIR$/第四章节/产生随机数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第三章节/第三章节.iml" filepath="$PROJECT_DIR$/第三章节/第三章节.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章节/第二章节.iml" filepath="$PROJECT_DIR$/第二章节/第二章节.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第五章节/第五章节.iml" filepath="$PROJECT_DIR$/第五章节/第五章节.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第四章节/第四章节.iml" filepath="$PROJECT_DIR$/第四章节/第四章节.iml" />
+    </modules>
+  </component>
+</project>
